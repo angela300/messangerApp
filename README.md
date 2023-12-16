@@ -1,3 +1,5 @@
+**A Messaging App with NodeJS and MongoDB**
+
 This project makes use of React with nodeJS backend and the mongoDB database
 
 To test the App:
